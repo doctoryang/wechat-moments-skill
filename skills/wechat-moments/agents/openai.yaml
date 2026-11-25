@@ -1,0 +1,4 @@
+interface:
+  display_name: "朋友圈照片精选与发布"
+  short_description: "识别本地照片、精选排序、撰写配文，并按当前授权发布微信朋友圈"
+  default_prompt: "请使用 $wechat-moments，查看我指定文件夹中的照片，精选排序、写好配文并发布到微信朋友圈。"
